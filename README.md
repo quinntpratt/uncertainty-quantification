@@ -18,6 +18,9 @@ I have assumed the user has standard scientific python packages such as ``numpy`
 * [uncertainties](https://pythonhosted.org/uncertainties/user_guide.html)
 * [lmfit](https://lmfit.github.io/lmfit-py/)
 
+For the more advanced demonstrations I have benchmarked the Smolyak quadrature class against ``chaospy``, so I'll link to that here, 
+
+* [chaospy](https://chaospy.readthedocs.io/en/docs/index.html)
 
 ## Help
 
